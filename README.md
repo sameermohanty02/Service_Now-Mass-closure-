@@ -5,7 +5,7 @@ For Some reasons we may have seen our monitoring software has malfuctioned and a
 It may be hundreds if you are lucky or thousands of tickets if its a bad day. Now the question is does Service Now inherently has a feature to 
 mass close the ticket?
 The answer is both yes and no. Mass closing of tickets in service now is generally limited or authorized to its admins and a generally a guy
-from other platform won't be able to do the same.
+from other platforms won't be able to do the same.
 
 But this Script may help you save the day.
 The script uses restful APIs to pull out the data and push the changes. The script is pulling out the tickets using sys_user id in service now.
