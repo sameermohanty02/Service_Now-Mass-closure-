@@ -1,7 +1,7 @@
 # Service_Now-Mass-closure
 
 
-Some reasons we may have seen our monitoring software has malfuctioned and as a result it has thrown out alerts in form of tickets in SNOW.
+For Some reasons we may have seen our monitoring software has malfuctioned and as a result it has thrown out alerts in form of tickets in SNOW.
 It may be hundreds if you are lucky or thousands of tickets if its a bad day. Now the question is does Service Now inherently has a feature to 
 mass close the ticket?
 The answer is both yes and no. Mass closing of tickets in service now is generally limited or authorized to its admins and a generally a guy
